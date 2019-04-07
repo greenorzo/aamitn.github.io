@@ -6,7 +6,135 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="google-site-verification" content="Oeb9ojsNiPsDJod_fV54S6M-N4fIKUUfVKQIN4f69Rs" />
-	<link rel="icon" href="img/favicon.png" type="image/png">
+	<style>
+/* Center the loader */
+		
+		#mycss{
+			
+			text-indent: 50px;
+			line-height: 8;
+			color: blue:
+
+			position: relative;
+			border-top: 2px blue;
+			border-top-left-radius: 3px;
+			border-top-right-radius: 3px;
+			text-align: center;
+			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+			font-feature-settings: normal;
+			font-display: auto;
+			font-kerning: auto;
+			font-size: 40px;
+			font-weight: 700;
+			text-emphasis-style:sesame;
+			text-emphasis-position: above;
+			text-rendering: optimizeLegibility;
+			text-transform: 
+			word-spacing: 17px;
+			letter-spacing: : 6px;
+			text-shadow: 2px 1.7px blue;		
+			-moz-animation: cssAnimation 0s ease-in 3s forwards;
+             /* Firefox */
+           -webkit-animation: cssAnimation 0s ease-in 3s forwards;
+              /* Safari and Chrome */
+            -o-animation: cssAnimation 0s ease-in 3s forwards;
+             /* Opera */
+             animation: cssAnimation 0s ease-in 3s forwards;
+            -webkit-animation-fill-mode: forwards;
+            animation-fill-mode: forwards;
+		}
+		
+@keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        overflow:hidden;
+    }
+}
+@-webkit-keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        visibility:hidden;
+    }
+}
+		
+		
+		
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 200px;
+  height: 500px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 68%;
+  border-top: 16px solid #47118e;
+  border-right: 16px solid #0067f9;
+  border-bottom: 16px solid #47118e;
+  border-left: 16px solid #26a7f2;
+  width: 200px;
+  height: 400px;
+  -webkit-animation: spin 0.4s linear infinite;
+  animation: spin 0.33s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(260deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(600deg); }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1.2s;
+  animation-name: animatebottom;
+  animation-duration: 1.22s
+}
+
+@-webkit-keyframes animatebottom {
+  from { bottom:-100px; opacity:0.44 } 
+  to { bottom:0px; opacity:1 }
+}
+
+@keyframes animatebottom { 
+  from{ bottom:-100px; opacity:0.44 } 
+  to{ bottom:0; opacity:1 }
+}
+
+#myDiv {
+  display: none;
+  text-align: center;
+}
+</style>
+</head>
+<body onload="myFunction()" style="margin:0;">
+	
+	<div id="hideme"> <div id="mycss"><h1>NANDI MECHATRONICS PVT. LTD.</h1> LOADING UP BITCH!</div></div>
+
+<div id="loader"> </div>
+<script>
+var myVar;
+
+function myFunction() {
+  myVar = setTimeout(showPage, 3000);
+}
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
+
+  <link rel="icon" href="img/favicon.png" type="image/png">
 	<title>NANDI MECHATRONICS/AMIT </title>
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="css/bootstrap.css">
@@ -19,7 +147,7 @@
 	<!-- main css -->
 	<link rel="stylesheet" href="css/style.css">
 </head>
-
+<div style="display:none;" id="myDiv" class="animate-bottom">
 <body>
 	<audio autoplay>
 	<source src="/music/a.mp3" type="audio/mp3"/>
@@ -424,5 +552,5 @@
 <script src="js/gmaps.min.js"></script>
 <script src="js/theme.js"></script>
 </body>
-
+</div>
 </html>

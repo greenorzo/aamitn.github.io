@@ -98,17 +98,7 @@ var mapProp= {
 marker.setMap(map);
   zoom:9,
 };
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-	var marker = new google.maps.Marker({position: myCenter});
 
-marker.setMap(map);
-}
-	
-	var infowindow = new google.maps.InfoWindow({
-  content:"REACH US HERE!"
-});
-
-infowindow.open(map,marker);
 </script>
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzCtw5X9PvpSI6LgaQsBa9qw4t7gK4C9s&callback=myMap"></script>

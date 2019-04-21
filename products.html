@@ -87,7 +87,7 @@ th, td {
     FB.getLoginStatus(function(response) {
     statusChangeCallback(response);
 });
-    </script>
+</script>
 
 </head>
 
@@ -235,6 +235,10 @@ th, td {
     data-use-continue-as="true"
     >
       <div class="fb-login-button" data-width="250" data-size="large" data-button-type="login_with" data-auto-logout-link="true" data-use-continue-as="true"></div>
+      <fb:login-button 
+  scope="public_profile,email"
+  onlogin="checkLoginState();">
+</fb:login-button>
       </div>
 </div>
 <br>

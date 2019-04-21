@@ -43,6 +43,7 @@ FB.Event.subscribe('xfbml.render', finished_rendering);
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+<script>FB.AppEvents.logPageView();</script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -214,9 +215,10 @@ th, td {
                     </center>
                     <p></p>
                                         <center>
-    <a class="primary_btn" href="rg/robosim.html" target="_blank"><span>TRY KineSim NOW !</span></a>
+    <button onclick='FB.AppEvents.logEvent("USEAPPbuttonClicked")'>
+ <a class="primary_btn" href="rg/robosim.html" target="_blank"><span>TRY KineSim NOW !</span></a></button>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a class="primary_btn" href="blog.html" target="_blank"><span>DONATE !</span></a>
+   <button onclick='FB.AppEvents.logEvent("DONATEbuttonClicked")'> <a class="primary_btn" href="blog.html" target="_blank"><span>DONATE !</span></a></button>
       <p></p>  
       <div id="spinner"
     style="
@@ -234,7 +236,7 @@ th, td {
     data-button-type="continue_with"
     data-use-continue-as="true"
     >
-      <div class="fb-login-button" data-width="250" data-size="large" data-button-type="login_with" data-auto-logout-link="true" data-use-continue-as="true"></div>
+    <button onclick='FB.AppEvents.logEvent("FBLOGINbuttonClicked")'>   <div class="fb-login-button" data-width="250" data-size="large" data-button-type="login_with" data-auto-logout-link="true" data-use-continue-as="true"></div></button>
       </div>
 </div>
 <br>

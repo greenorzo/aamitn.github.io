@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>KineSIm:NANDI MECHATRONICS</title>
+  <title>KineSim:NANDI MECHATRONICS</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
  
@@ -21,8 +21,9 @@
   <script src="vendor/three.js/TransformControls.js"></script>
   <script src="vendor/EventDispatcher.js"></script>
   <script src="js/THREERobot.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js"></script>
-<script>
+  <!-- three.js container -->
+  src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js"
+
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyAdrZldfGjyHeqF0lM6dP1O1P8Dvp037qw",
@@ -33,7 +34,8 @@
     messagingSenderId: "1094292124039"
   };
   firebase.initializeApp(config);
-</script>
+
+  <!-- three.js container -->
    <link href="css/main.css" rel="stylesheet" />
 
 </head>

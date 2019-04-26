@@ -5,7 +5,7 @@
   <title>KineSIm:NANDI MECHATRONICS</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-  <meta http-equiv="refresh" content="3; url=rg/robosim.html">
+  
 
   <script src="js/require.js" charset="utf-8"></script>
   <!-- <script src="/socket.io/socket.io.js"></script> -->
@@ -34,7 +34,19 @@
   };
   firebase.initializeApp(config);
 </script>
+<script type="text/javascript">
+$(document).ready(function(){    
+    //Check if the current URL contains '#'
+    if(document.URL.indexOf("#")==-1){
+        // Set the URL to whatever it was plus "#".
+        url = document.URL+"#";
+        location = "#";
 
+        //Reload the page
+        location.reload(true);
+    }
+});
+</script>
   <link href="css/main.css" rel="stylesheet" />
 </head>
 

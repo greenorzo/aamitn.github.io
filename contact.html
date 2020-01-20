@@ -128,11 +128,13 @@ var mapProp= {
   zoom:18,
 };
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+var marker = new google.maps.Marker({position: office, map: map});
+var office = {lat: 22.4957039, lng: 88.3890398};
 }
 </script>
 		</div>
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDzCtw5X9PvpSI6LgaQsBa9qw4t7gK4C9s&callback=myMap"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMdesH8GFFh4Q0dJYj8SlfHBMBL0QNHug&callback=myMap"></script>
         
       </div>
 

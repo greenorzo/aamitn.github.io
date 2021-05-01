@@ -271,7 +271,7 @@ button:focus {
     height: 50%;
 }
 .banner-img-one {
-    background-image: url(../img/video.gif);
+    background-image: url(../img/bg.png);/*  background-image: url(../img/video.gif);*/
 }
 .banner-area {
     background-size: cover;

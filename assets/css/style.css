@@ -244,7 +244,7 @@ button:focus {
     transition: 0.5s all ease;
     opacity: 0;
     z-index: -1;
-}
+}+
 .side-nav a:after {
     position: absolute;
     content: "";
@@ -3423,6 +3423,45 @@ footer:before {
     transition: 0.5s all ease;
     opacity: 1;
     font-weight: 600;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: 100px;
+  padding: 20px;
+  border: 2px solid #888;
+  width: 30%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
 }
 .contact-area .contact-right .contact-btn:hover {
     background-color: #282828;

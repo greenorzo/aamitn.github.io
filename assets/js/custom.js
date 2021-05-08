@@ -115,7 +115,7 @@ jQuery(
         jQuery(window).on("load", function () {
             jQuery(".loader").fadeOut(150);
         });
-        $("body").append('<div id="toTop" class="back-to-top-btn"><i class="bx bxs-up-arrow-alt"></i></div>');
+        //$("body").append('<div id="toTop" class="back-to-top-btn"><i class="bx bxs-up-arrow-alt"></i></div>');
         $(window).scroll(function () {
             if ($(this).scrollTop() != 0) {
                 $("#toTop").fadeIn();

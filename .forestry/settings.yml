@@ -15,3 +15,5 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: npm run forestry:preview
+- name: Logflare Log
+  uses: Logflare/action@v1.1.2

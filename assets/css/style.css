@@ -129,7 +129,11 @@ button:focus {
     z-index: 2;
 }
 .navbar-area .main-nav {
-    background-color: #0b47d4;
+   background: rgb(12,71,212);
+background: -moz-linear-gradient(90deg, rgba(12,71,212,1) 0%, rgba(131,18,239,1) 74%, rgba(0,0,0,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(12,71,212,1) 0%, rgba(131,18,239,1) 74%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(12,71,212,1) 0%, rgba(131,18,239,1) 74%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0c47d4",endColorstr="#000000",GradientType=1);
     padding-top: 10px;
     padding-bottom: 10px;
     -webkit-transition: 0.5s all ease;
@@ -1149,7 +1153,12 @@ header .overlay {
     color: #282828;
 }
 footer {
-    background-image: url(../img/home-one/footer-bg.jpg);
+
+background: rgb(2,0,36);
+background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(33,33,226,1) 37%, rgba(95,6,217,1) 64%, rgba(0,0,0,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(33,33,226,1) 37%, rgba(95,6,217,1) 64%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(33,33,226,1) 37%, rgba(95,6,217,1) 64%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#000000",GradientType=1);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1162,7 +1171,7 @@ footer:before {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #060f1e;
+    /*background-color: #060f1e;*/
     opacity: 0.92;
 }
 .footer-item {
@@ -1296,7 +1305,7 @@ footer:before {
 .copyright-area .copyright-item p a {
     display: inline-block;
     font-weight: 600;
-    color: #0C47D4;
+    color: #37bdcc;
 }
 .copyright-area .copyright-item p a:hover {
     color: #fff;

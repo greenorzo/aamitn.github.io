@@ -50,7 +50,11 @@ a.meanmenu-reveal {
 .mean-container .mean-nav {
     float: left;
     width: 100%;
-    background: #fff;
+    background: rgb(12,71,212);
+background: -moz-linear-gradient(90deg, rgba(12,71,212,1) 66%, rgba(0,0,0,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(12,71,212,1) 66%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(12,71,212,1) 66%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0c47d4",endColorstr="#000000",GradientType=1);
     margin-top: 55px
 }
 
@@ -75,7 +79,7 @@ a.meanmenu-reveal {
     padding: 1em 5%;
     margin: 0;
     text-align: left;
-    color: #677294;
+    color: white;
     border-top: 1px solid #dbeefd;
     text-decoration: none
 }
@@ -87,7 +91,29 @@ a.meanmenu-reveal {
 .mean-container .mean-nav ul li li a {
     width: 80%;
     padding: 1em 10%;
-    color: #677294;
+    color: black;
+	background: rgb(25,171,204);
+background: -moz-linear-gradient(90deg, rgba(25,171,204,1) 49%, rgba(0,0,0,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(25,171,204,1) 49%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(25,171,204,1) 49%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#19abcc",endColorstr="#000000",GradientType=1);
+    border-top: 1px solid #dbeefd;
+    opacity: 1;
+    filter: alpha(opacity=75);
+    text-shadow: none !important;
+    visibility: visible;
+    text-transform: none;
+    font-size: 14px
+}
+.mean-container .mean-nav ul li li li a {
+    width: 80%;
+    padding: 1em 10%;
+    color: black;
+	background: rgb(23,145,129);
+background: -moz-radial-gradient(circle, rgba(23,145,129,1) 50%, rgba(0,0,0,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(23,145,129,1) 50%, rgba(0,0,0,1) 100%);
+background: radial-gradient(circle, rgba(23,145,129,1) 50%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#179181",endColorstr="#000000",GradientType=1);
     border-top: 1px solid #dbeefd;
     opacity: 1;
     filter: alpha(opacity=75);

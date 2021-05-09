@@ -2456,13 +2456,40 @@ footer:before {
     background-color: #fff;
 }
 .page-title-area {
-    background-image: url(../img/page-title-bg.jpg);
+
+	    background: linear-gradient(321deg, #1a62db, #ee7d10, #e6205c, #1c93a7);
+    background-size: 800% 800%;
+
+    -webkit-animation: AnimationName 0s ease infinite;
+    -moz-animation: AnimationName 0s ease infinite;
+    -o-animation: AnimationName 0s ease infinite;
+    animation: AnimationName 0s ease infinite;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     position: relative;
     height: 200px;
     background-attachment: fixed;
+}
+@-webkit-keyframes AnimationName {
+    0%{background-position:81% 0%}
+    50%{background-position:20% 100%}
+    100%{background-position:81% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:81% 0%}
+    50%{background-position:20% 100%}
+    100%{background-position:81% 0%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:81% 0%}
+    50%{background-position:20% 100%}
+    100%{background-position:81% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:81% 0%}
+    50%{background-position:20% 100%}
+    100%{background-position:81% 0%}
 }
 .page-title-area:before {
     position: absolute;
@@ -2471,7 +2498,6 @@ footer:before {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #07092b;
     opacity: 0.9;
 }
 .page-title-area .title-item {

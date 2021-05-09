@@ -2457,9 +2457,8 @@ footer:before {
 }
 .page-title-area {
 
-	    background: linear-gradient(321deg, #1a62db, #ee7d10, #e6205c, #1c93a7);
+	background: linear-gradient(321deg, #1a62db, #ee7d10, #e6205c, #1c93a7);
     background-size: 800% 800%;
-
     -webkit-animation: AnimationName 0s ease infinite;
     -moz-animation: AnimationName 0s ease infinite;
     -o-animation: AnimationName 0s ease infinite;

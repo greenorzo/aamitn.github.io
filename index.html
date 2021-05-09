@@ -1038,7 +1038,15 @@ Contact Us
         element.classList.toggle("dark");
         }
     </script>
-	
+	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "4538f21b-d7fc-40bb-8a8c-d54027149119",
+    });
+  });
+</script>
     <!-- Start cookieyes banner -->
     <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/12420debf91f23ab09f75a1f.js"></script>
     <!-- End cookieyes banner --> 

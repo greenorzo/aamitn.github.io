@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>KineSim:NANDI MECHATRONICS</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+ 
+
+  <script src="js/require.js" charset="utf-8"></script>
+  <!-- <script src="/socket.io/socket.io.js"></script> -->
+
+  <script src="vendor/three.js/Three.js"></script>
+  <script src="vendor/three.js/Detector.js"></script>
+  <script src="vendor/three.js/Stats.js"></script>
+
+  <script src="vendor/threex/THREEx.screenshot.js"></script>
+  <script src="vendor/threex/THREEx.FullScreen.js"></script>
+  <script src="vendor/threex/THREEx.WindowResize.js"></script>
+  <script src="vendor/three.js/OrbitControls.js"></script>
+  <script src="vendor/three.js/TransformControls.js"></script>
+  <script src="vendor/EventDispatcher.js"></script>
+  <script src="js/THREERobot.js"></script>
+  <!--   src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js"
+
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAdrZldfGjyHeqF0lM6dP1O1P8Dvp037qw",
+    authDomain: "kinesim-73962.firebaseapp.com",
+    databaseURL: "https://kinesim-73962.firebaseio.com",
+    projectId: "kinesim-73962",
+    storageBucket: "kinesim-73962.appspot.com",
+    messagingSenderId: "1094292124039"
+  };
+  firebase.initializeApp(config); -->
+  
+
+
+  <!-- three.js container -->
+   <link href="css/main.css" rel="stylesheet" />
+   <style>
+     .mydiv{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #115baf;
+   color: white;
+   text-align: center;
+     font-family: "Trebuchet MS", Helvetica, sans-serif;
+     }
+   </style>
+
+</head>
+
+<body>
+  <div class= "mydiv"> RoboSim™ | Browser-Based Robotics Simulator | Amit Kumar Nandi | Nandi Mechatronics Pvt. Ltd.®</div>
+  <!-- three.js container -->
+  <div id="container"></div>
+
+  <script type="text/javascript">
+
+    var debug = {}
+    requirejs.config({
+      // urlArgs: "bust=" + (new Date()).getTime(),
+      baseUrl: 'js',
+      paths: {
+        State: '../vendor/state/State',
+        Kinematic: 'InverseKinematic'
+      },
+    });
+
+    require(['Hmi'], function(Hmi) {
+      let hmi = new Hmi()
+    });
+  </script>
+</body>
+
+</html>

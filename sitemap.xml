@@ -1,115 +1,139 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>https://aamitn.github.io/index.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/about.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/portfolio.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/services.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/products.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/portfolio-details.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/blog.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/single-blog.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/contact.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/skype:amitnandileo?call</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/www.facebook.com/ibigwiz</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/www.facebook.com/</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/www.linkedin.com/sknandi</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/www.linkedin.com/</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/rg/robosim.html</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/rg/</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/cv/1.pdf</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aamitn.github.io/cv/</loc>
-    <changefreq>Monthly</changefreq>
-    <priority>1</priority>
-    <lastmod>2019-04-18T16:22:08Z</lastmod>
-  </url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.enempl.com/</loc>
+	<lastmod>2021-05-16T00:57:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/index.html</loc>
+	<lastmod>2021-05-16T00:57:54+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/feature.html</loc>
+	<lastmod>2021-05-16T00:57:54+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/products.html</loc>
+	<lastmod>2021-05-16T00:57:54+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/about.html</loc>
+	<lastmod>2021-05-16T00:57:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/sdr.html</loc>
+	<lastmod>2021-05-16T00:57:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/sds.html</loc>
+	<lastmod>2021-05-16T00:57:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/sde.html</loc>
+	<lastmod>2021-05-16T00:57:55+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/sdc.html</loc>
+	<lastmod>2021-05-16T00:57:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/sdm.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/sdi.html</loc>
+	<lastmod>2021-05-16T00:57:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/projects.html</loc>
+	<lastmod>2021-05-16T00:57:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/vendors.html</loc>
+	<lastmod>2021-05-16T00:57:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/docana.html</loc>
+	<lastmod>2021-05-16T00:57:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/pub.html</loc>
+	<lastmod>2021-05-16T00:57:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/contact.html</loc>
+	<lastmod>2021-05-16T00:57:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/members.html</loc>
+	<lastmod>2021-05-16T00:57:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/pp.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/tos.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/faq.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/team.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/testimonial.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/404.html</loc>
+	<lastmod>2021-05-16T00:57:58+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/coming-soon.html</loc>
+	<lastmod>2021-05-16T00:57:59+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/service.html</loc>
+	<lastmod>2021-05-16T00:58:00+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/rg/robosim.html</loc>
+	<lastmod>2021-05-16T00:58:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.enempl.com/simc/circuitjs.html</loc>
+	<lastmod>2021-05-16T00:58:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
 </urlset>

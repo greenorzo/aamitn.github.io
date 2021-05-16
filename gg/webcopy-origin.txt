@@ -1,0 +1,628 @@
+Uri: https://gogreet.tech/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\index.htm
+Content Type: text/html
+
+Uri: https://gogreet.tech/img/th.jpg
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\th.jpg
+Content Type: image/jpeg
+
+Uri: https://gogreet.tech/img/128.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\128.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/favicon.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\favicon.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/css/bootstrap.min.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/animate.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\animate.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/owl.carousel.min.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/all.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\all.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/flaticon.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\flaticon.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/themify-icons.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/magnific-popup.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/slick.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\slick.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/css/style.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css\style.css
+Content Type: text/css
+
+Uri: https://vjs.zencdn.net/4.12/video-js.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\4.12\video-js.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/index.html
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\index.html
+Content Type: text/html
+
+Uri: https://simcee.github.io/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\index-1.htm
+Content Type: text/html
+
+Uri: https://gogreet.tech/docs.html
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\docs.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/contact.html
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\contact.html
+Content Type: text/html
+
+Uri: https://play.google.com/store/apps/details?id=nmpl.greet3.app
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\store\apps\details.html
+Content Type: text/html
+
+Uri: https://videojs.com/html5-video-support/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\html5-video-support\index.htm
+Content Type: text/html
+
+Uri: https://admin.typeform.com/signup?utm_campaign=AtO7aOAt&utm_source=typeform.com-01E9AAGG195B500BCW1HYJF1BT-free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\signup.html
+Content Type: text/html
+
+Uri: https://tawk.to/gogreet
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\gogreet.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/policy.html
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\policy.html
+Content Type: text/html
+
+Uri: https://gdpr.eu/checklist/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\checklist\index.htm
+Content Type: text/html
+
+Uri: https://gogreet.tech/terms.html
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\terms.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/doc.html
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\doc.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/cdn-cgi/apps/head/m_ZFnCNGvg1hmy3SDNaSC6mxXRM.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\apps\head\m_ZFnCNGvg1hmy3SDNaSC6mxXRM.js
+Content Type: application/javascript
+
+Uri: https://vjs.zencdn.net/4.12/video.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\4.12\video.js
+Content Type: application/javascript
+
+Uri: https://meet.jit.si/external_api.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\external_api.js
+Content Type: application/javascript
+
+Uri: https://www.freeprivacypolicy.com/public/cookie-consent/3.1.0/cookie-consent.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\public\cookie-consent\3.1.0\cookie-consent.js
+Content Type: application/javascript
+
+Uri: https://redir.apptivate.it/6fcc5afa-c919-42d8-afac-9ae18f87be80.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\6fcc5afa-c919-42d8-afac-9ae18f87be80.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/img/logo.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\logo.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/footer_logo.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\footer_logo.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/banner_img.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\banner_img.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/down.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\down.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/downa.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\downa.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_7.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_7.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_8.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_8.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_1.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_1.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_2.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_2.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_3.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_3.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_4.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_4.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/feature_icon_1.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\feature_icon_1.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/feature_icon_2.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\feature_icon_2.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/feature_icon_3.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\feature_icon_3.png
+Content Type: image/png
+
+Uri: https://appetize.io/embed/q7gk73gjnxujdpr0475mkfgy2g?device=pixel4xl&scale=50&autoplay=false&orientation=portrait&deviceColor=black
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\embed\q7gk73gjnxujdpr0475mkfgy2g.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/img/icon/Icon_1.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\Icon_1.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/about_img.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\about_img.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/about_img_1.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\about_img_1.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/Icon_2.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\Icon_2.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/animate_icon/Ellipse_5.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\animate_icon\Ellipse_5.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/pricing_icon_1.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\pricing_icon_1.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/pricing_icon_2.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\pricing_icon_2.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/pricing_icon_3.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\pricing_icon_3.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/icon/pricing_icon_4.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\icon\pricing_icon_4.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/vid/1.mp4
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\vid\1.mp4
+Content Type: video/mp4
+
+Uri: https://gogreet.tech/img/review_bg.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\review_bg.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/client_logo/client_logo_1.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\client_logo\client_logo_1.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/client_logo/client_logo_2.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\client_logo\client_logo_2.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/client_logo/client_logo_3.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\client_logo\client_logo_3.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/client_logo/client_logo_4.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\client_logo\client_logo_4.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/client_logo/client_logo_5.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\client_logo\client_logo_5.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/js/jquery-1.12.1.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery-1.12.1.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/popper.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/bootstrap.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/jquery.magnific-popup.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/swiper.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/masonry.pkgd.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\masonry.pkgd.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/owl.carousel.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/jquery.nice-select.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/slick.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/jquery.counterup.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/waypoints.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/contact.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\contact.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/jquery.ajaxchimp.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/jquery.form.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/jquery.validate.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/mail-script.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\mail-script.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/js/custom.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\js\custom.js
+Content Type: application/javascript
+
+Uri: https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/webfonts/fa-brands-400.eot
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/webfonts/fa-brands-400.eot?
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/webfonts/fa-brands-400.woff2
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://gogreet.tech/webfonts/fa-brands-400.woff
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://gogreet.tech/webfonts/fa-brands-400.ttf
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://gogreet.tech/webfonts/fa-brands-400.svg
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gogreet.tech/webfonts/fa-regular-400.eot
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/webfonts/fa-regular-400.eot?
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/webfonts/fa-regular-400.woff2
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://gogreet.tech/webfonts/fa-regular-400.woff
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://gogreet.tech/webfonts/fa-regular-400.ttf
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://gogreet.tech/webfonts/fa-regular-400.svg
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gogreet.tech/webfonts/fa-solid-900.eot
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/webfonts/fa-solid-900.eot?
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/webfonts/fa-solid-900.woff2
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://gogreet.tech/webfonts/fa-solid-900.woff
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://gogreet.tech/webfonts/fa-solid-900.ttf
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://gogreet.tech/webfonts/fa-solid-900.svg
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://gogreet.tech/fonts/Flaticon.eot
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/fonts/Flaticon.eot?
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/fonts/Flaticon.woff2
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://gogreet.tech/fonts/Flaticon.woff
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://gogreet.tech/fonts/Flaticon.ttf
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://gogreet.tech/fonts/themify.eot?-fvbane
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/fonts/themify.eot?
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gogreet.tech/fonts/themify.woff?-fvbane
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://gogreet.tech/fonts/themify.ttf?-fvbane
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://gogreet.tech/fonts/themify.svg?-fvbane
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://gogreet.tech/img/banner_bg.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\banner_bg.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/footer_bg.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\footer_bg.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/elements/primary-check.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\elements\primary-check.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/elements/success-check.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\elements\success-check.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/elements/disabled-check.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\elements\disabled-check.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/elements/primary-radio.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\elements\primary-radio.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/elements/success-radio.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\elements\success-radio.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/img/elements/disabled-radio.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\img\elements\disabled-radio.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,400,500,600,700|Rajdhani:400,500,600,700&display=swap
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\css-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\ajax\libs\highlight.js\9.12.0\styles\railscasts.min.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/scribbler-global.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\scribbler-global.css
+Content Type: text/css
+
+Uri: https://gogreet.tech/scribbler-landing.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\scribbler-landing.css
+Content Type: text/css
+
+Uri: https://github.com/aamitn
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\aamitn.html
+Content Type: text/html
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\ajax\libs\highlight.js\9.12.0\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/scribbler.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\scribbler.js
+Content Type: application/javascript
+
+Uri: https://gogreet.tech/cdn-cgi/l/email-protection
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14744.903832686903!2d88.3912285!3d22.4957039!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0:0xb768d06fb061fa86!2sNandi Mechatronics Pvt. Ltd.!5e0!3m2!1sen!2sin!4v1594610554175!5m2!1sen!2sin
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\maps\embed.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/policies/privacy/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\policies\privacy\index.htm
+Content Type: text/html
+
+Uri: https://support.google.com/admob/answer/6128543?hl=en
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\admob\answer\6128543.html
+Content Type: text/html
+
+Uri: https://firebase.google.com/policies/analytics
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\policies\analytics.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/about/privacy/update/printable
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\about\privacy\update\printable.html
+Content Type: text/html
+
+Uri: https://clicky.com/terms
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\terms-1.html
+Content Type: text/html
+
+Uri: https://sentry.io/privacy/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\privacy\index.html
+Content Type: text/html
+
+Uri: https://datatracker.ietf.org/doc/html/draft-ietf-tls-curve25519-01
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\doc\html\draft-ietf-tls-curve25519-01.html
+Content Type: text/html
+
+Uri: https://policies.google.com/terms
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\terms-2.html
+Content Type: text/html
+
+Uri: https://developers.google.com/admob/terms
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\admob\terms.html
+Content Type: text/html
+
+Uri: https://firebase.google.com/terms/analytics
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\terms\analytics.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/legal/terms/plain_text_terms
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\legal\terms\plain_text_terms.html
+Content Type: text/html
+
+Uri: https://clicky.com/terms/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\terms\index.htm
+Content Type: text/html
+
+Uri: https://sentry.io/terms/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\terms\index.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/scribbler-doc.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\scribbler-doc.css
+Content Type: text/css
+
+Uri: https://api.whatsapp.com/send/?phone=919038556097&text=Please+type+in+your+message+here:&app_absent=0
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\send\index.htm
+Content Type: text/html
+
+Uri: https://gogreet.tech/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://gogreet.tech/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://gogreet.tech/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Users\bigwi\OneDrive\Desktop\grab1\gogreet.tech\5xx-error-landing\index.htm
+Content Type: text/html
+

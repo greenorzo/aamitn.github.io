@@ -1,0 +1,631 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Greet® Meetings">
+<meta name="twitter:card" content="img/512.png">
+<meta name="twitter:image:src" content="img/128.png">
+<meta property="og:image" content="img/128.png">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<script src="cdn-cgi/apps/head/m_ZFnCNGvg1hmy3SDNaSC6mxXRM.js"></script><link rel="shortcut icon" href="img/128.png" type="image/x-icon">
+
+<meta name="description" content="Greet® Meetings:Seamless Video Conferencing for Today's Enterprise">
+<meta property="og:image" content="img/128.png">
+
+<meta property="og:url" content="https://gogreet.tech">
+<meta property="og:title" content="Greet® Meetings">
+<meta property="og:description" content="Seamless Video Conferencing for Today's Enterprise">
+<meta name="twitter:card" content="Seamless Video Conferencing for Today's Enterprise">
+<meta name="twitter:title" content="Greet® Meetings">
+<meta name="twitter:description" content="Meetings|Conferences|Webinars">
+<meta name="twitter:image" content="https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/81132157_709855129420552_5129017337491488768_n.png?_nc_cat=110&_nc_sid=6e5ad9&_nc_ohc=zQJSXXpT7tUAX8mOGN4&_nc_ht=scontent.fccu3-1.fna&oh=82d749406c618a8a5607d5d5ca56fe41&oe=5EF67A8E">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Greet Meetings</title>
+<link rel="icon" href="img/favicon.png">
+
+<link rel="stylesheet" href="css/bootstrap.min.css">
+
+<link rel="stylesheet" href="css/animate.css">
+
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+
+<link rel="stylesheet" href="css/all.css">
+
+<link rel="stylesheet" href="css/flaticon.css">
+<link rel="stylesheet" href="css/themify-icons.css">
+
+<link rel="stylesheet" href="css/magnific-popup.css">
+
+<link rel="stylesheet" href="css/slick.css">
+
+<link rel="stylesheet" href="css/style.css">
+<link href="4.12/video-js.css" rel="stylesheet">
+<script src="4.12/video.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src='external_api.js' type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<style type="text/css">
+  .vjs-default-skin .vjs-play-progress,
+  .vjs-default-skin .vjs-volume-level { background-color: #f0da00 }
+  .vjs-default-skin .vjs-control-bar { font-size: 113% }
+</style>
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
+<script id="mcjs" type="8838e6fcb369a7f6327cf409-text/javascript">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/46bfca04e9d5ebb9945283035/a999771a0db13ef0d0bcab4fb.js");</script>
+<script type="8838e6fcb369a7f6327cf409-text/javascript">
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+<script type="8838e6fcb369a7f6327cf409-text/javascript">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '298024208224617');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=298024208224617&ev=PageView&noscript=1"></noscript>
+
+<script type="8838e6fcb369a7f6327cf409-text/javascript">
+var TxtType = function(el, toRotate, period) {
+        this.toRotate = toRotate;
+        this.el = el;
+        this.loopNum = 0;
+        this.period = parseInt(period, 10) || 2000;
+        this.txt = '';
+        this.tick();
+        this.isDeleting = false;
+    };
+
+    TxtType.prototype.tick = function() {
+        var i = this.loopNum % this.toRotate.length;
+        var fullTxt = this.toRotate[i];
+
+        if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+        } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+
+        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+        var that = this;
+        var delta = 200 - Math.random() * 100;
+
+        if (this.isDeleting) { delta /= 2; }
+
+        if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+        } else if (this.isDeleting && this.txt === '') {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+        }
+
+        setTimeout(function() {
+        that.tick();
+        }, delta);
+    };
+
+    window.onload = function() {
+        var elements = document.getElementsByClassName('typewrite');
+        for (var i=0; i<elements.length; i++) {
+            var toRotate = elements[i].getAttribute('data-type');
+            var period = elements[i].getAttribute('data-period');
+            if (toRotate) {
+              new TxtType(elements[i], JSON.parse(toRotate), period);
+            }
+        }
+        // INJECT CSS
+        var css = document.createElement("style");
+        css.type = "text/css";
+        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
+        document.body.appendChild(css);
+    };
+</script>
+
+<script type="8838e6fcb369a7f6327cf409-text/javascript" src="public/cookie-consent/3.1.0/cookie-consent.js"></script>
+<script type="8838e6fcb369a7f6327cf409-text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"en","website_name":"Greet Meetings","cookies_policy_url":"https://nandimechatronics.me/privacy-Policy/24/page"});
+});
+</script>
+<script type="8838e6fcb369a7f6327cf409-application/javascript" src="6fcc5afa-c919-42d8-afac-9ae18f87be80.js" charset="UTF-8" defer=""></script>
+<noscript>Cookie Consent by <a href="https://nandimechatronics.me/" rel="nofollow">Nandi Mechatronics Pvt. Ltd.</a></noscript>
+
+</head>
+<body>
+
+<header class="main_menu">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-12">
+<nav class="navbar navbar-expand-lg navbar-light">
+<a class="navbar-brand main_logo" style="color:#ffca2b;" href="index.html"> <img src="img/logo.png" alt="logo" width="64">&nbsp;&nbsp;Greet.</a>
+<a class="navbar-brand single_page_logo" href="index.html"> <img src="img/footer_logo.png" alt="logo"> </a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="menu_icon"></span>
+</button>
+<div class="collapse navbar-collapse main-menu-item" id="navbarSupportedContent">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link" href="#">Home</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#section1">Features</a>
+ </li>
+<li class="nav-item">
+<a class="nav-link" href="#section2">pricing</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="blog.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Other Products
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" target="_blank" href="https://nandimechatronics.me/aamitn.github.io/rg"> KineSim</a>
+<a class="dropdown-item" target="_blank" href="index-1.htm">SimC</a>
+<a class="dropdown-item" target="_blank" href="https://brandra.in">Brandra</a>
+<a class="dropdown-item" target="_blank" href="https://nandimechatronics.me/build/">BiLD</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" href="blog.html" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+Dev
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+<a class="dropdown-item" href="docs.html">Documentation</a>
+<a class="dropdown-item" href="elements.html">API</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="contact.html">Contact</a>
+</li>
+</ul>
+</div>
+<a href="https://nandimechatronics.me/login/register" class="d-none d-sm-block btn_1 home_page_btn">sign up</a>&nbsp;&nbsp;
+<a href="https://nandimechatronics.me/login" class="d-none d-sm-block btn_2 home_page_btn">log in</a>
+</nav>
+</div>
+</div>
+</div>
+</header>
+
+
+<section class="banner_part">
+<div class="container">
+<div class="row align-items-center justify-content-between">
+<div class="col-lg-5">
+<div class="banner_img d-none d-lg-block">
+<img src="img/banner_img.png" alt="">
+</div>
+</div>
+<div class="col-lg-6">
+<div class="banner_text">
+<div class="banner_text_iner">
+<h1>Greet:Seamless Video Conferencing</h1>
+<p>Go Greet with India's first end-to-end encrypted video conferencing tool for all your meeting requirements</p>
+<h2>
+<a href="" class="typewrite" data-period="1000" data-type='[ "Webinars", "Conferences", "Meetings", "Online Classes", "Fun" ]'>
+<span class="wrap"></span>
+</a>
+</h2>
+<a href="https://softwizards.in" target="_blank" class="btn_2">Try Now</a><br>
+<a href="store/apps/details.html?id=nmpl.greet3.app"><img src="img/down.png" width="140"></a>
+<a href="#"><img src="img/downa.png" width="140"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_7.png" alt="" class="feature_icon_1 custom-animation1">
+<img src="img/animate_icon/Ellipse_8.png" alt="" class="feature_icon_2 custom-animation2">
+<img src="img/animate_icon/Ellipse_1.png" alt="" class="feature_icon_3 custom-animation3">
+<img src="img/animate_icon/Ellipse_2.png" alt="" class="feature_icon_4 custom-animation4">
+<img src="img/animate_icon/Ellipse_3.png" alt="" class="feature_icon_5 custom-animation5">
+<img src="img/animate_icon/Ellipse_4.png" alt="" class="feature_icon_6 custom-animation6">
+</section>
+
+
+<div class="main" id="section1">
+<section class="use_sasu padding_top">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-4 col-sm-6">
+<div class="single_feature">
+<div class="single_feature_part">
+<img src="img/icon/feature_icon_1.png" alt="">
+<h4>Fully Secured</h4>
+<p>Greet comes with fully end-to-end AES256 encrypted infrastructure so that you can execute your meetings on your terms </p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-sm-6">
+<div class="single_feature">
+<div class="single_feature_part">
+<img src="img/icon/feature_icon_2.png" alt="">
+<h4>Unique Features</h4>
+<p>Our cross-platform architecture gives you the power to leverage upon your meetings even on the go and to top with off with advanced presentation features</p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-sm-6">
+<div class="single_feature">
+<div class="single_feature_part">
+<img src="img/icon/feature_icon_3.png" alt="">
+<h4>E for Enterprise</h4>
+<p>Greet lets you record your conferences and fetch previous meeting chat transcripts along with provisions for customised meeting pages and on-premise hosting</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_1.png" alt="" class="feature_icon_1 custom-animation1">
+</section>
+</div>
+<br><br><br>
+<div style="text-align:center;">
+<h1>Try the app right away without installing it</h1><br><p>Tap the 'Click to Play' button to start off</p>
+<iframe style="margin-top:20px;" src="embed/q7gk73gjnxujdpr0475mkfgy2g.html?device=pixel4xl&scale=50&autoplay=false&orientation=portrait&deviceColor=black" width="300px" height="600px" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<section class="about_us section_padding">
+<div class="container">
+<div class="row align-items-center justify-content-between">
+<div class="col-md-6 col-lg-5">
+<div class="about_us_text">
+<img src="img/icon/Icon_1.png" alt="">
+<h2>No browser plugin hassles&nbsp;</h2>
+<p>Greet lets you operate your meetings from the web-browser without the need for downloading any additional client-side plugins.Your experience is going to be as seamless as it gets. Thats a promise!</p>
+<a href="#" class="btn_2">learn more</a>
+</div>
+</div>
+<div class="col-md-6 col-lg-6">
+<div class="learning_img">
+<img src="img/about_img.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_4.png" alt="" class="feature_icon_1 custom-animation1">
+</section>
+
+
+<section class="about_us right_time">
+<div class="container">
+<div class="row align-items-center justify-content-between">
+<div class="col-md-6 col-lg-6">
+<div class="learning_img">
+<img src="img/about_img_1.png" alt="">
+</div>
+</div>
+<div class="col-md-6 col-lg-5">
+<div class="about_us_text">
+<img src="img/icon/Icon_2.png" alt="">
+<h2>Connect from mobile with our app</h2>
+<p>Connect and organize your online meetings right from your mobile/tablet by downloading our Android/iOS app from the links below. We don't sell ads please support us by buying the enterprise version.</p>
+<a href="#" class="btn_2">Android</a>&nbsp;&nbsp;<a href="#" class="btn_2">iOS</a>
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_5.png" alt="" class="feature_icon_2 custom-animation2">
+</section>
+
+<div class="main" id="section2">
+
+<section class="pricing_part section_padding home_page_pricing">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6">
+<div class="section_tittle text-center">
+<h2>Dirt Cheap</h2>
+<p>Our flexible pricing makes sure that there's one for everyone</p>
+</div>
+</div>
+</div>
+<div class="row justify-content-center">
+<div class="col-lg-3 col-sm-6">
+<div class="single_pricing_part">
+<img src="img/icon/pricing_icon_1.png" alt="">
+<p>Free</p>
+<h3>₹0<span>/ mo</span></h3>
+<a target="_blankhref=" https:="" 158.247.193.232"="" class="pricing_btn">Try Now</a>
+<ul>
+<li>Single Host</li>
+<li>Upto 40 Participants</li>
+<li>Unlimited 1-to-1 Calling</li>
+<li>Conferencing tools included</li>
+<li>End-to-End Encrypted</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6">
+<div class="single_pricing_part">
+<img src="img/icon/pricing_icon_2.png" alt="">
+<p>Pro</p>
+<h3>₹899<span>/ month</span><span>/ host</span></h3>
+<a target="_blank" href="https://rzp.io/l/gogreet" class="pricing_btn">Buy Now</a>
+<ul>
+<li>Upto 100 Participants</li>
+<li>Unlimited metings</li>
+<li>Conferencing tools included</li>
+<li>End-to-End Encrypted</li>
+<li>Smart Meeting Scheduling</li>
+<li>Meetings Scheduling</li>
+<li>24/7 Live Support</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6">
+<div class="single_pricing_part">
+<img src="img/icon/pricing_icon_3.png" alt="">
+<p>Business</p>
+<h3>₹1199<span>/ month</span><span>/ host</span></h3>
+<a href="https://rzp.io/l/gogreet" target="_blank" class="pricing_btn">Buy Now</a>
+<ul>
+<li>Upto 100 Participants</li>
+<li>Unlimited metings</li>
+<li>Conferencing tools included</li>
+<li>End-to-End Encrypted</li>
+<li>Smart Meeting Scheduling</li>
+<li>Meetings Scheduling</li>
+<li>Customized meeting URLs</li>
+<li>24/7 Live Support</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6">
+<div class="single_pricing_part">
+<img src="img/icon/pricing_icon_4.png" alt="">
+<p>Enterprise</p>
+<h3>₹1800 <span>/ month</span><span>/ host</span></h3>
+<a href="section3#" class="pricing_btn">Contact Us</a>
+<ul>
+<li>Upto 100 Participants</li>
+<li>Unlimited metings</li>
+<li>Conferencing tools included</li>
+<li>End-to-End Encrypted</li>
+<li>Smart Meeting Scheduling</li>
+<li>Meetings Scheduling</li>
+<li>Customized meeting URLs</li>
+<li>Meeting Page and Video Feed Branding</li>
+<li>On Premise Hosting</li>
+<li>24/7 Live Support</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_2.png" alt="" class="feature_icon_2 custom-animation2">
+</section>
+<center>
+<video id="MY_VIDEO_1" class="video-js vjs-default-skin" autoplay="" controls="" preload="auto" width="320" height="264" poster="img/th.jpg" data-setup="{}">
+<source src="vid/1.mp4" type='video/mp4'>
+<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="html5-video-support/index.htm" target="_blank">supports HTML5 video</a></p>
+</video>
+<br><br>
+</center>
+</div>
+
+<section class="review_part padding_bottom">
+<div class="container">
+<div class="row align-items-center justify-content-between">
+<div class="col-md-6 col-lg-6">
+<div class="review_img">
+<img src="img/review_bg.png" alt="">
+</div>
+</div>
+<div class="col-md-6 col-lg-5">
+<div class="review_slider owl-carousel">
+<div class="review_part_text">
+<h2>Maximized business efficiency</h2>
+<p>Greet helps us automating our conference scheduling workflow with its seamless control panel.</p>
+<h3>Mitchel Jeferson, <span>CEO of softking</span> </h3>
+</div>
+<div class="review_part_text">
+<h2>Unlocking opportunities</h2>
+<p>With its no-hassle intergration with our existing ERP system makes life easier.</p>
+<h3>Mitchel Jeferson, <span>CEO of softking</span> </h3>
+</div>
+<div class="review_part_text">
+<h2>Customized Experiences</h2>
+<p>Extensive API support has helped us integrate greet in our existing system without a hitch!</p>
+<h3>Mitchel Jeferson, <span>CEO of softking</span> </h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_4.png" alt="" class="feature_icon_2 custom-animation2">
+</section>
+
+<div class="main" id="section3">
+
+<section class="subscribe_part padding_bottom">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-8">
+<div class="subscribe_part_text text-center">
+<h2>Experience the most efficient way to <br>
+manage business meetings</h2>
+<div class="subscribe_form">
+<div class="typeform-widget" data-url="https://form.typeform.com/to/AtO7aOAt" data-transparency="50" data-hide-headers="true" data-hide-footer="true" style="width: 100%; height: 500px;"></div> <script type="8838e6fcb369a7f6327cf409-text/javascript"> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="signup.html?utm_campaign=AtO7aOAt&utm_source=typeform.com-01E9AAGG195B500BCW1HYJF1BT-free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="img/animate_icon/Ellipse_5.png" alt="" class="feature_icon_2 custom-animation2">
+</section>
+
+</div>
+
+<section class="client_logo">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-12">
+<div class="client_logo_slider owl-carousel d-flex justify-content-between">
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_1.png" alt="">
+</div>
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_2.png" alt="">
+</div>
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_3.png" alt="">
+</div>
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_4.png" alt="">
+</div>
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_5.png" alt="">
+</div>
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_1.png" alt="">
+</div>
+<div class="single_client_logo">
+<img src="img/client_logo/client_logo_2.png" alt="">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<footer class="footer_part">
+<div class="container">
+<div class="row">
+<div class="col-sm-8 col-md-4 col-lg-4">
+<div class="single_footer_part">
+<center> <a href="index.html" class="footer_logo_iner"> <img src="img/logo.png" width="85" alt="#"></a></center>
+<p>Greet is developed in-house at Nandi Mechatronics Pvt. Ltd. : a software product development company based in Kolkata,India
+</p>
+</div>
+</div>
+<div class="col-sm-4 col-md-4 col-lg-2">
+<div class="single_footer_part">
+<h4>About Us</h4>
+<ul class="list-unstyled">
+<li><a href="https://nandimechatroncis.me">Company</a></li>
+<li><a href="contact.html">Contact Us</a></li>
+<li><a href="gogreet.html">Customer Service</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-4 col-md-4 col-lg-2">
+<div class="single_footer_part">
+<h4>Other Products</h4>
+<ul class="list-unstyled">
+<li><a href="https://nandimechatronics.me/aamitn.github.io/rg/">KineSim</a></li>
+<li><a href="index-1.htm">SimC</a></li>
+<li><a href="">Brandra</a></li>
+<li><a href="https://nandimechatronics.me/build">BiLD</a></li>
+<li><a href="policy.html">Privacy & Policy</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-4 col-md-4 col-lg-2">
+<div class="single_footer_part">
+<h4>My Account</h4>
+<ul class="list-unstyled">
+<li><a href="checklist/index.htm">GDPR Complaince</a></li>
+<li><a href="doc/html/draft-ietf-tls-curve25519-01.html">More on Encryption</a></li>
+<li><a href="https://nandimechatronics.me/quote">Investor Relations</a></li>
+<li><a href="terms.html">Terms of Service</a></li>
+</ul>
+</div>
+</div>
+<div class="col-sm-4 col-md-3 col-lg-2">
+<div class="single_footer_part">
+<h4>Resources</h4>
+<ul class="list-unstyled">
+<li><a href="docs.html">Documentation</a></li>
+<li><a href="">API</a></li>
+<li><a href="doc.html">Developers</a></li>
+</ul>
+</div>
+</div>
+</div>
+<hr>
+<div class="row">
+<div class="col-lg-8">
+<div class="copyright_text">
+<p>
+Copyright &copy;<script type="8838e6fcb369a7f6327cf409-text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | Nandi Mechatronics Pvt. Ltd. | Made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://nandimechatronics.me" target="_blank">Amit Kumar Nandi</a>
+</p>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="footer_icon social_icon">
+<ul class="list-unstyled">
+<li><a href="#" class="single_social_icon"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="#" class="single_social_icon"><i class="fab fa-twitter"></i></a></li>
+<li><a href="#" class="single_social_icon"><i class="fas fa-globe"></i></a></li>
+<li><a href="#" class="single_social_icon"><i class="fab fa-github"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<script src="js/jquery-1.12.1.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/popper.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/bootstrap.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/jquery.magnific-popup.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/swiper.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/masonry.pkgd.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/owl.carousel.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/jquery.nice-select.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/slick.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/jquery.counterup.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/waypoints.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/contact.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/jquery.ajaxchimp.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/jquery.form.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/jquery.validate.min.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="js/mail-script.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+
+<script src="js/custom.js" type="8838e6fcb369a7f6327cf409-text/javascript"></script>
+<script src="cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="8838e6fcb369a7f6327cf409-|49" defer=""></script></body>
+</html>

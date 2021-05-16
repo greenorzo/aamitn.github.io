@@ -36,7 +36,7 @@ a {
     border-radius: 10px;
     width: auto;
     position: relative;
-    min-width: 250px;
+    min-width: 80px;
 
     &::after {
         content: "\f2f6";

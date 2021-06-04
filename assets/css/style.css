@@ -2251,8 +2251,8 @@ footer:before {
     border: 0;
 }
 .modal.modal-right .modal-dialog {
-    max-width: 580px;
-    min-height: 100vh;
+    max-width: 750px;
+    min-height: 200vh;
 }
 .modal.modal-right.show .modal-dialog {
     -webkit-transform: translate(0, 0);

@@ -2,7 +2,7 @@
 	const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["hard", "fun", "a journey", "LIFE"];
+const textArray = ["Mechatronics","CNC Machine Control","Motor Control", "Custom Discrete-Event Simulation Software", "Robotics", "LIFE"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
